@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🛠 Technologies:</h3>
+<h2 align="left">🛠 Technologies:</h3>
 
 ###
 
