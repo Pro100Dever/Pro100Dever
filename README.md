@@ -1,13 +1,11 @@
 
 <div align="center">
-  <a href="https://t.me/pro100dever" target="_blank">
-    <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="40" alt="telega logo"  /></a>
-  <a href="https://www.linkedin.com/in/volodymyr-berestenko-1412b2218/" target="_blank">
-    <img src="https://github.com/Pro100Dever/-/blob/main/icons8-linkedin-circled.svg" height="40" alt="telega logo"  /> </a>
-  <a href="https://leetcode.com/u/Pro100Dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="40" alt="telega logo"  /> </a>
-  <a href="https://t.me/pro100dever" target="_blank">
-    <img src="https://github.com/Pro100Dever/-/blob/main/5387632.png" height="40" alt="telega logo"  /> </a>
+  <a href="https://t.me/pro100dever" target="_blank"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="50" width="50" alt="telega logo"  /></a>
+  <a href="https://leetcode.com/u/Pro100Dev/" target="_blank"><img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="50" width="50" alt="telega logo"  /></a>
+  <a href="https://www.linkedin.com/in/volodymyr-berestenko-1412b2218/" target="_blank"><img src="https://github.com/Pro100Dever/-/blob/main/icons8-linkedin-circled.svg" height="60" width="60" alt="telega logo"  /></a>
+  <a href="https://t.me/pro100dever" target="_blank"><img src="https://github.com/Pro100Dever/-/blob/main/5387632.png" height="55" width="55" alt="telega logo"  /></a>
+  
+  
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Pro100Dever&icon=5&color=11)](https://visitcount.itsvg.in)
