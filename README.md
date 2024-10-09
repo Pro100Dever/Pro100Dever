@@ -100,8 +100,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pro100Dever&show_icons=true&theme=tokyonight" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pro100Dever&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ## 🏆 My GitHub Trophies
