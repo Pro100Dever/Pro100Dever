@@ -12,15 +12,7 @@
 
 <h3 align="left">Social accounts:</h3>
 
-<div align="center">
-  <a href="https://t.me/pro100dever" target="_blank"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="60"  alt="telega logo"  /></a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/volodymyr-berestenko-1412b2218/" target="_blank"><img src="https://github.com/Pro100Dever/-/blob/main/linkedin-icon.svg" height="60"  alt="telega logo"  /></a>
-  <img width="12" />
-  <a href="https://leetcode.com/u/Pro100Dev/" target="_blank"><img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="60"  alt="telega logo"  /></a>
-  <img width="12" />
-  <a href="https://www.codewars.com/users/Pro100easy" target="_blank"><img src="https://github.com/Pro100Dever/-/blob/main/cw-512-12b281b9-f8a8-4512-9050-dcc2a2c7bb89.png" height="60" alt="telega logo"  /></a>
-</div>
+
 
 ###
 
