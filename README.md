@@ -36,12 +36,11 @@
 
 ###
 
-<!--<h3 align="left">📕 Мои статьи</h3>
+<h3 align="left">📕 Мои статьи</h3>
 
 ###
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
--->
+<p align="left">I am a beginner Frontend developer. My path in IT began with the Gromcode school, where I completed an intensive course. After the intensive course, there was a year-long gap where I had to move to Germany, study German, take integration courses and find housing. From September 2024 to June 2025, I studied Frontend development on the IT Career Hub courses. At the moment, my training on the course is complete and I am looking for my first job!<br><br> - 📚 Completed Gromcode web development courses!<br>- ⚡️ I am a senior student in the IT Carier Hub Web Development course.</p>
+
 ###
 
 <p align="center">
@@ -87,7 +86,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma"  width="40" height="40" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="gcp"  width="40"  height="40" />
+  <!-- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="gcp"  width="40"  height="40" /> -->
 </div>
 
 ###
