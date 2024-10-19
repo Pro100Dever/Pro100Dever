@@ -28,18 +28,16 @@
 </div>
 
 ###
-
+<!--
 <h2 align="left">👩‍💻  About me</h2>
 
 ###
 
-
-###
-
-<h3 align="left">📕 Мои статьи</h3>
-
-###
 <p align="left">I am a beginner Frontend developer. My path in IT began with the Gromcode school, where I completed an intensive course. After the intensive course, there was a year-long gap where I had to move to Germany, study German, take integration courses and find housing. From September 2024 to June 2025, I studied Frontend development on the IT Career Hub courses. At the moment, my training on the course is complete and I am looking for my first job!<br><br> - 📚 Completed Gromcode web development courses!<br>- ⚡️ I am a senior student in the IT Carier Hub Web Development course.</p>
+
+### 
+<h3 align="left">📕 Мои статьи</h3>
+-->
 
 ###
 
@@ -61,32 +59,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <!-- <img width="12" />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"   alt="redux"  width="40"  height="40"/>
-  <img width="12" />
+  <img width="12" />  -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git" width="40" height="40" />
   <img width="12" />
   <br>
   <br>
-  <img  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"    alt="jest"  width="40"  height="40" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img width="12" />
+  <img width="12" /> -->
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="40"  height="40"/>
   <img width="12" />
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40" height="40"  />
+<!--   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40" height="40"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma"  width="40" height="40" />
-  <img width="12" />
-  <!-- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="gcp"  width="40"  height="40" /> -->
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="gcp"  width="40"  height="40" />  -->
 </div>
 
 ###
