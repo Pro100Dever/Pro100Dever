@@ -98,7 +98,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ## 🏆 My GitHub Trophies
@@ -106,5 +106,9 @@
 
 ###
 
-
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pro100Dever&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100Dever&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
