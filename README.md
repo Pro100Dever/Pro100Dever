@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://t.me/pro100dever" target="_blank"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="60"  alt="telega logo"  /></a>
   <img width="12" />
-  <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/whatsapp-logo-4456.png" height="60"  alt="telega logo"  />
+  <a href="https://wa.me/16091938461" target="_blank"><img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/whatsapp-logo-4456.png" height="60"  alt="telega logo"  /><a/>
   <img width="12" />
   <a href="https://www.linkedin.com/in/volodymyr-berestenko-1412b2218/" target="_blank"><img src="https://github.com/Pro100Dever/-/blob/main/linkedin-icon.svg" height="60"  alt="telega logo"  /></a>
   <img width="12" />
