@@ -68,16 +68,16 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"   alt="redux"  width="40"  height="40"/>
   <img width="12" />  -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git" width="40" height="40" />
+  <br>
+  <br>
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="40"  height="40"/>
   <img width="12" />
-  <br>
-  <br>
-  <!-- <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git" width="40" height="40" />
+  <!-- <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img width="12" /> -->
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="40"  height="40"/>
-  <img width="12" />
 <!--   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40" height="40"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
