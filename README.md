@@ -29,12 +29,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Pro100Dever&icon=5&color=11" src="https://visitcount.itsvg.in"  />
-</div>
-
-###
 <!--
 <h2 align="left">👩‍💻  About me</h2>
 
