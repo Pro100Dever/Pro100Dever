@@ -89,11 +89,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img width="12" />
-  <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/vite.svg" height="40" alt="vite logo"  />
+  <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/vite.svg" height="40" width="40" alt="vite logo"  />
   <img width="12" />
-  <!-- <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
+  <!-- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img width="12" />
    -->
