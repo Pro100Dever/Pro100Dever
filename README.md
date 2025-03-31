@@ -36,9 +36,6 @@
 
 <p align="left">I am a beginner Frontend developer. My path in IT began with the Gromcode school, where I completed an intensive course. After the intensive course, there was a year-long gap where I had to move to Germany, study German, take integration courses and find housing. From September 2024 to June 2025, I studied Frontend development on the IT Career Hub courses. At the moment, my training on the course is complete and I am looking for my first job!<br><br> - 📚 Completed Gromcode web development courses!<br>- ⚡️ I am a senior student in the IT Carier Hub Web Development course.</p>
 
-### 
-<h3 align="left">📕 Мои статьи</h3>
-
 ###
 -->
 <p align="center">
@@ -64,8 +61,10 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"   alt="redux"  width="40"  height="40"/>
   <img width="12" />
-  <!-- <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40" height="40" />
-  <img width="12" />  -->
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40" height="40" />
+  <img width="12" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img width="12" />
   <br>
   <br>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="40"  height="40"/>
@@ -78,10 +77,9 @@
   <img width="12" />
   <img src="https://github.com/Pro100Dever/Pro100Dever/blob/main/vite.svg" height="40" width="40" alt="vite logo"  />
   <img width="12" />
-  <!-- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img width="12" />
-   -->
+   
 </div>
 
 ###
