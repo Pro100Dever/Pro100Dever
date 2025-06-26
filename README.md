@@ -1,4 +1,3 @@
-<br clear="both">
 
 <div align="center">
   <img height="300" width="600" src="https://github.com/Pro100Dever/-/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif"  />
